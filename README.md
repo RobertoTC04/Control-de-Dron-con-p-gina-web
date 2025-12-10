@@ -2,7 +2,7 @@
 
 ## Descripción
 
-Sistema de control inalámbrico para dirigir trayectorias de un dron con fines publicitarios. Interfaz web adaptable para PC y móvil desarrollada con HTML, CSS y JavaScript. Comunicación y procesamiento embebido implementados en C++ sobre ESP32. Se aplicaron conocimientos de electrónica y control para garantizar operación estable y precisa.
+Sistema de control inalámbrico para dirigir trayectorias de un dron con fines publicitarios. Interfaz web adaptable para PC y móvil desarrollada con HTML, CSS y JavaScript. Comunicación y procesamiento en el sistema implementados en C++ sobre ESP32. Se aplicaron conocimientos de electrónica y control para garantizar operación estable y precisa.
 
 ## Contenido del repositorio
 
